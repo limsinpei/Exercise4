@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exercise4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Age">Your Age: </string>
+    <string name="Saving">Saving(RM):</string>
+    <string name="transfer">Transfer(RM):</string>
+    <string name="basic">Basic Saving in Account 1:</string>
+    <string name="btnDate">BIRTH DATE</string>
+    <string name="date">Date</string>
+</resources>
